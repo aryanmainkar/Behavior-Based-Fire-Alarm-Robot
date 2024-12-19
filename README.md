@@ -1,6 +1,6 @@
-# Behavior-Based-Fire-Alarm-Robot
 
-Robot Navigation and Calibration
+
+Behavior-Based-Fire-Alarm-Robot
 ================================
 
 Overview
